@@ -68,7 +68,7 @@ body{
   }
   .weather-card .top .wrapper .temp .temp-value {
     display: inline-block;
-    font-size: 85px;
+    font-size: 65px;
     font-weight: 600;
     color: #fff;
   }
